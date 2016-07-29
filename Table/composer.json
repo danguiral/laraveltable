@@ -1,12 +1,6 @@
 {
     "name": "LaravelTable/Table",
     "description": "packages to order table and paginate them",
-    "authors": [
-        {
-            "name": "Florent",
-            "email": "florent.danguiral@gmail.com"
-        }
-    ],
     "minimum-stability": "dev",
     "require": {}
 }
