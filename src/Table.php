@@ -1,6 +1,6 @@
 <?php
 
-namespace Laraveltable\Table;
+namespace laraveltable;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\DB;

@@ -1,5 +1,11 @@
 {
-    "name": "laravel-table/table",
+    "name": "laraveltable",
     "description": "packages to order table and paginate them",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "laraveltable\\": "src/"
+        }
+    }
+
 }

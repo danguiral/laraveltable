@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelTable\Table;
+namespace laraveltable;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -14,7 +14,7 @@ class TableServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__.'/assets' => public_path('vendor/laraveltable'), // <script src="{{ asset('/vendor/laraveltable/js/laraveltable-sortable.js')}}"></script>
+            __DIR__.'/assets' => public_path('fdanguiral/laraveltable'), // <script src="{{ asset('/vendor/laraveltable/js/laraveltable-sortable.js')}}"></script>
         ], 'public');
     }
 
