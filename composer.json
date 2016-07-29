@@ -1,5 +1,5 @@
 {
-    "name": "laraveltable",
+    "name": "fdanguiral/laraveltable",
     "description": "packages to order table and paginate them",
     "require": {},
     "autoload": {
