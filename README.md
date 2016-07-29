@@ -36,7 +36,7 @@ alias
 
 plugin is installed
 
-### includ js le JS ###
+### include JS ###
 
 ```
     <script src="{{ asset('/vendor/laraveltable/js/laraveltable-sortable.js') }}"></script>
