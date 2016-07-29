@@ -6,8 +6,14 @@ Add Paypal SDK to your composer.json file to require  :
 ```
     require : {
         "laravel/framework": "5.1.*",
-        "LaravelTable/Table": "dev-master"
+        "laravel-table/table": "dev-master"
     }
+```
+
+or use this command line : 
+
+```
+	composer require laravel-table/table dev-master
 ```
 
 Update Composer :
