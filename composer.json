@@ -1,5 +1,5 @@
 {
-    "name": "LaravelTable/Table",
+    "name": "laravel-table/table",
     "description": "packages to order table and paginate them",
     "minimum-stability": "dev",
     "require": {}
