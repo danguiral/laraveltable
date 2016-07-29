@@ -2,11 +2,10 @@
 
 ### Installation ###
 
-Add Paypal SDK to your composer.json file to require  :
+composer.json file require  :
 ```
     require : {
-        "laravel/framework": "5.1.*",
-        "fdanguiral/laravel-table": "dev-master"
+        "fdanguiral/laraveltable": "master-dev"
     }
 ```
 
@@ -25,7 +24,7 @@ Provider :
 ```
 alias
 ```
-    'Paypal' =>LaravelPaypal\Paypal\PaypalServiceProvider::class
+    'Table' => laraveltable\TableServiceProvider::class,
 
 ```
 
